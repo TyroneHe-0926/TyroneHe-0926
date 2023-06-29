@@ -60,7 +60,7 @@ No Activity Tracked This Week
 
 ## GitHub stats
 <p align="center">  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TyroneHe-0926&hide_border=true&show_icons=true&include_all_commits=true&theme=vue&locale=en" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TyroneHe-0926&hide_border=true&show_icons=true&theme=vue&locale=en" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyroneHe-0926&hide=css,scss,html&langs_count=8&hide_border=true&layout=compact&theme=vue&locale=en" />
 </p>
 
