@@ -1,5 +1,5 @@
 # Hahafhaha
-<li>I am Tyrone or hahafhaha.</li>
+<li>I am Tyrone or usually hahafhaha on social media.</li>
 <li>Currently a third year Software Engineering student at University of Waterloo</li>
 <li>Find my latest blog posts at https://hahafhahalpaca.com </li>
 <li>
