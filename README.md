@@ -37,7 +37,7 @@
  </p>
 </li>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2018%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -57,7 +57,7 @@ Mac                      3 hrs 18 mins       ███████████�
 ```
 
 
- Last Updated on 29/06/2023 20:04:38 UTC
+ Last Updated on 30/06/2023 20:04:49 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
