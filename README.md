@@ -1,9 +1,9 @@
 # Hahafhaha
-<li>I am Tyrone or usually hahafhaha on social media.</li>
-<li>Currently a third year Software Engineering student at University of Waterloo</li>
-<li>Find my latest blog posts at https://hahafhahalpaca.com </li>
+<li> :wave: &nbsp &nbsp I am Tyrone or usually hahafhaha on social media.</li>
+<li> :school: &nbsp &nbsp Currently a third year Software Engineering student at University of Waterloo</li>
+<li> :page_with_curl:	&nbsp &nbsp Find my latest blog posts at https://hahafhahalpaca.com </li>
 <li>
- Stuff I think I work with
+ :llama:	&nbsp &nbsp Stuff I think I work with
  <p>
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF5733?style=flat-square&logo=amazonaws&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
