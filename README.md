@@ -36,6 +36,8 @@
   <img alt="spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white"/>
  </p>
 </li>
+
+## Live Stats
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
@@ -58,7 +60,7 @@ Mac                      3 hrs 18 mins       ███████████�
  Last Updated on 02/07/2023 20:04:40 UTC
 <!--END_SECTION:waka-->
 
-## GitHub stats
+## GitHub Stats
 <p align="center">  
     <img height="180em" src="https://github-readme-stats-gilt-psi.vercel.app/api?username=TyroneHe-0926&hide_border=true&show_icons=true&include_all_commits=true&theme=vue&locale=en" />
     <img height="180em" src="https://github-readme-stats-gilt-psi.vercel.app/api/top-langs/?username=TyroneHe-0926&hide=css,scss,html&langs_count=8&hide_border=true&layout=compact&theme=vue&locale=en" />
