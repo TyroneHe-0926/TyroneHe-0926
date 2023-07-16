@@ -1,7 +1,8 @@
 # Hahafhaha
+
 <li> :wave: &nbsp &nbsp I am Tyrone or usually hahafhaha on social media.</li>
 <li> :school: &nbsp &nbsp Currently a third year Software Engineering student at University of Waterloo</li>
-<li> :page_with_curl:	&nbsp &nbsp Find my latest blog posts at https://hahafhahalpaca.com </li>
+<li> :page_with_curl:	&nbsp &nbsp Find my latest blog posts at https://hahafhaha.com </li>
 <li>
  :llama:	&nbsp &nbsp Stuff I think I work with
  <p>
@@ -38,31 +39,34 @@
 </li>
 
 ## Live Stats
+
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2026%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Python                   18 hrs 31 mins      ██████████████████████░░░   88.99 % 
-YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Docker                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+💬 Programming Languages:
+Python                   18 hrs 31 mins      ██████████████████████░░░   88.99 %
+YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Docker                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 
-🔥 Editors: 
-VS Code                  20 hrs 49 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  20 hrs 49 mins      █████████████████████████   100.00 %
 
-💻 Operating System: 
-Mac                      20 hrs 49 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Mac                      20 hrs 49 mins      █████████████████████████   100.00 %
 ```
 
+Last Updated on 15/07/2023 20:04:28 UTC
 
- Last Updated on 15/07/2023 20:04:28 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
+
 <p align="center">  
     <img height="180em" src="https://github-readme-stats-gilt-psi.vercel.app/api?username=TyroneHe-0926&hide_border=true&include_orgs=true&show_icons=true&include_all_commits=true&theme=vue&locale=en" />
     <img height="180em" src="https://github-readme-stats-gilt-psi.vercel.app/api/top-langs/?username=TyroneHe-0926&hide=css,scss,html&langs_count=8&hide_border=true&include_orgs=true&layout=compact&theme=vue&locale=en" />
