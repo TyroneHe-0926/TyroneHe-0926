@@ -2,7 +2,7 @@
 
 <li> :wave: &nbsp &nbsp I am Tyrone or usually hahafhaha on social media.</li>
 <li> :school: &nbsp &nbsp Currently a third year Software Engineering student at University of Waterloo</li>
-<li> :page_with_curl:	&nbsp &nbsp Find my latest blog posts at https://hahafhaha.com </li>
+<li> :page_with_curl:	&nbsp &nbsp Find my latest blog posts at https://www.hahafhaha.com/#/projects/meepoer </li>
 <li>
  :llama:	&nbsp &nbsp Stuff I think I work with
  <p>
