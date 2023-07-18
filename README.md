@@ -1,7 +1,7 @@
 # Hahafhaha
 
 <li> :wave: &nbsp &nbsp I am Tyrone or usually hahafhaha on social media.</li>
-<li> :school: &nbsp &nbsp Currently a third year Software Engineering student at University of Waterloo</li>
+<li> :school: &nbsp &nbsp Currently a third-year Software Engineering student at the University of Waterloo</li>
 <li> :page_with_curl:	&nbsp &nbsp Find my latest blog posts at https://www.hahafhaha.com/#/projects/meepoer </li>
 <li>
  :llama:	&nbsp &nbsp Stuff I think I work with
@@ -9,10 +9,12 @@
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF5733?style=flat-square&logo=amazonaws&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white" />
   <img alt="kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
   <img alt="antd" src="https://img.shields.io/badge/-AntDesgin-0170FE?style=flat-square&logo=antdesign&logoColor=white"/>
+  <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
   <img alt="redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
   <img alt="ES" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
   <img alt="Kibana" src="https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white"/>
@@ -25,6 +27,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="flask" src="https://img.shields.io/badge/-Flask-811127?style=flat-square&logo=flask&logoColor=white"/>
   <img alt="fastapi" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img alt="paddle" src="https://img.shields.io/badge/-PaddlePaddle-0062B0?style=flat-square&logo=paddlepaddle&logoColor=white"/>
   <img alt="iterm2" src="https://img.shields.io/badge/-iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white"/>
   <img alt="tmux" src="https://img.shields.io/badge/-Tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white"/>
@@ -34,7 +37,7 @@
   <img alt="ffmpeg" src="https://img.shields.io/badge/-FFMPEG-4E1181?style=flat-square&logo=ffmpeg&logoColor=white"/>
   <img alt="notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   <img alt="postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  <img alt="spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white"/>
+  <img alt="Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white"/>
  </p>
 </li>
 
