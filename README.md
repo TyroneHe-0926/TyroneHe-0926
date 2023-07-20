@@ -74,4 +74,4 @@ Mac                      15 hrs 53 mins      ███████████�
     <img height="180em" src="https://github-readme-stats-gilt-psi.vercel.app/api/top-langs/?username=TyroneHe-0926&hide=css,scss,html&langs_count=8&hide_border=true&include_orgs=true&layout=compact&theme=vue&locale=en" />
 </p>
 
-![Snake animation](https://github.com/TyroneHe-0926/TyroneHe-0926/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/TyroneHe-0926/TyroneHe-0926/blob/output/ocean.gif)
