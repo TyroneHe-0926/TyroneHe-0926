@@ -11,11 +11,13 @@
      <td align="center">Frontend</td>
      <td>
         <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+        <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-09D3AC?style=flat-square&logo=createreactapp&logoColor=white" />
         <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+        <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white" />
         <img alt="antd" src="https://img.shields.io/badge/-AntDesgin-0170FE?style=flat-square&logo=antdesign&logoColor=white"/>
         <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white" />
-        <img alt="less" src="https://img.shields.io/badge/-less-CC6699?style=flat-square&logo=less&logoColor=white"/>
+        <img alt="less" src="https://img.shields.io/badge/-Less-CC6699?style=flat-square&logo=less&logoColor=white"/>
      </td>
    </tr>
    <tr>
@@ -38,9 +40,12 @@
      <td align="center">Devops</td>
      <td>
        <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF5733?style=flat-square&logo=amazonaws&logoColor=white" />
-       <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />  
-       <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+       <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+       <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+       <img alt="eks" src="https://img.shields.io/badge/-EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white" />
+       <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
        <img alt="metabase" src="https://img.shields.io/badge/-Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white"/>
+       <img alt="bash" src="https://img.shields.io/badge/-Shell%20Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
      </td>
    </tr>
    <tr>
