@@ -70,6 +70,7 @@
       <img alt="vscode" src="https://img.shields.io/badge/-VSCode-E95420?style=flat-square&logo=visualstudiocode&logoColor=white"/>
       <img alt="ffmpeg" src="https://img.shields.io/badge/-FFMPEG-4E1181?style=flat-square&logo=ffmpeg&logoColor=white"/>
       <img alt="Gstreamer" src="https://img.shields.io/badge/-GStreamer-FF3131?style=flat-square&logo=GStreamer&logoColor=white" />
+      <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
       <img alt="Unity" src="https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" />
       <img alt="notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
       <img alt="postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
