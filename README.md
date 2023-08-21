@@ -29,6 +29,7 @@
      <td>
        <img alt="kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
        <img alt="redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+       <img alt="milvus" src="https://img.shields.io/badge/-Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white" />
        <img alt="ES" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
        <img alt="Kibana" src="https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white"/>
        <img alt="logstash" src="https://img.shields.io/badge/-Logstash-005571?style=flat-square&logo=logstash&logoColor=white"/>
