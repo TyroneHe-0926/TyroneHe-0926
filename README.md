@@ -93,23 +93,25 @@
 ## Live Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%206%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      29 mins             ██████████████░░░░░░░░░░░   57.45 % 
+Text                     21 mins             ███████████░░░░░░░░░░░░░░   42.46 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  51 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    51 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/11/2023 20:04:50 UTC
+ Last Updated on 07/11/2023 20:04:46 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
