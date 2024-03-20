@@ -99,17 +99,17 @@
 
 ```text
 💬 Programming Languages: 
-Python                   5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 19/03/2024 20:04:39 UTC
+ Last Updated on 20/03/2024 20:05:11 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
