@@ -99,17 +99,19 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   9 mins              ██████████████░░░░░░░░░░░   54.13 % 
+Go                       8 mins              ███████████░░░░░░░░░░░░░░   45.79 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      17 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/04/2024 20:04:50 UTC
+ Last Updated on 04/04/2024 20:04:41 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
