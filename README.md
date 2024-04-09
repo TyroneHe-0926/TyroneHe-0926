@@ -93,13 +93,13 @@
 ## Live Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2029%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Go                       4 hrs 50 mins       ████████████████████████░   94.82 % 
+Go                       4 hrs 50 mins       ████████████████████████░   94.83 % 
 Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
@@ -113,7 +113,7 @@ Mac                      5 hrs 6 mins        ███████████�
 ```
 
 
- Last Updated on 08/04/2024 20:04:46 UTC
+ Last Updated on 09/04/2024 20:04:47 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
