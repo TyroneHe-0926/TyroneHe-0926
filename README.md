@@ -99,19 +99,17 @@
 
 ```text
 💬 Programming Languages: 
-Go                       2 hrs 41 mins       █████████████████████████   99.95 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 41 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 41 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 20/04/2024 20:04:36 UTC
+ Last Updated on 21/04/2024 20:05:12 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
