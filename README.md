@@ -99,17 +99,18 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     5 mins              █████████████████░░░░░░░░   69.72 % 
+JSON                     2 mins              ████████░░░░░░░░░░░░░░░░░   30.28 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/05/2024 20:04:45 UTC
+ Last Updated on 07/05/2024 20:04:24 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
