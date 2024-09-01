@@ -99,17 +99,19 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               18 mins             ████████████████░░░░░░░░░   65.94 % 
+CSS                      9 mins              █████████░░░░░░░░░░░░░░░░   34.05 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  28 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      28 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/08/2024 20:04:46 UTC
+ Last Updated on 01/09/2024 20:05:34 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
