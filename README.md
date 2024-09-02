@@ -28,6 +28,7 @@
      <td align="center">Backend</td>
      <td>
        <img alt="kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+       <img alt="pulsar" src="https://img.shields.io/badge/-Pulsar-188FFF?style=flat-square&logo=apachepulsar&logoColor=white"/>
        <img alt="redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
        <img alt="milvus" src="https://img.shields.io/badge/-Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white" />
        <img alt="ES" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
@@ -46,15 +47,18 @@
    <tr>
      <td align="center">Devops</td>
      <td>
-       <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF5733?style=flat-square&logo=amazonaws&logoColor=white" />
+       <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF5733?style=flat-square&logo=amazonwebservices&logoColor=white" />
        <img alt="Tencent-cloud" src="https://img.shields.io/badge/-Tencent%20Cloud-3C72B9?style=flat-square&logo=sonarcloud&logoColor=white" />
        <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
        <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
        <img alt="eks" src="https://img.shields.io/badge/-EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white" />
        <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+       <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
        <img alt="Argo" src="https://img.shields.io/badge/-Argo-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
        <img alt="Github-actions" src="https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+       <img alt="Okta" src="https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta&logoColor=white" />
        <img alt="helm" src="https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+       <img alt="Chef" src="https://img.shields.io/badge/-Chef-F09820?style=flat-square&logo=chef&logoColor=white"/>
        <img alt="metabase" src="https://img.shields.io/badge/-Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white"/>
        <img alt="bash" src="https://img.shields.io/badge/-Shell%20Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
      </td>
@@ -83,6 +87,7 @@
       <img alt="Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white"/>
       <img alt="Lastfm" src="https://img.shields.io/badge/-Lastfm-D51007?style=flat-square&logo=last.fm&logoColor=white" />
       <img alt="Chrome" src="https://img.shields.io/badge/-Google%20Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+      <img alt="Arc" src="https://img.shields.io/badge/-Arc-FCBFBD?style=flat-square&logo=arc&logoColor=black" />
       <img alt="Beats" src="https://img.shields.io/badge/-Beats-E01F3D?style=flat-square&logo=beatsbydre&logoColor=white" />
       <img alt="Nike" src="https://img.shields.io/badge/-Nike%20Only-111111?style=flat-square&logo=nike&logoColor=white" />
      </td>
