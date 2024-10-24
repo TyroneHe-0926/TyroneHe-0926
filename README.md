@@ -20,7 +20,8 @@
        <img alt="etcd" src="https://img.shields.io/badge/-Etcd-419EDA?style=flat-square&logo=etcd&logoColor=white" />
        <img alt="apache2" src="https://img.shields.io/badge/-Apache2-D22128?style=flat-square&logo=apache&logoColor=white"/>
        <img alt="caddy" src="https://img.shields.io/badge/-Caddy-004833?style=flat-square&logo=caddy&logoColor=white"/>
-       <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+       <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+       <img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
        <img alt="flask" src="https://img.shields.io/badge/-Flask-811127?style=flat-square&logo=flask&logoColor=white"/>
        <img alt="fastapi" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
        <img alt="pydantic" src="https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
@@ -30,25 +31,29 @@
    <tr>
      <td align="center">DevOps/SRE</td>
      <td>
+       <img alt="aws" src="https://img.shields.io/badge/-AWS-FF5733?style=flat-square&logo=amazonwebservices&logoColor=white" />
+       <img alt="terraform" src="https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+       <img alt="docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+       <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+       <img alt="helm" src="https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+       <img alt="rancher" src="https://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white" />
+       <img alt="serverless" src="https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" />
+       <img alt="jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+       <img alt="github-actions" src="https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+       <img alt="ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+       <img alt="argo" src="https://img.shields.io/badge/-Argo-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
        <img alt="elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
        <img alt="kibana" src="https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white"/>
        <img alt="logstash" src="https://img.shields.io/badge/-Logstash-005571?style=flat-square&logo=logstash&logoColor=white"/>
        <img alt="grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
        <img alt="prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-       <img alt="aws" src="https://img.shields.io/badge/-AWS-FF5733?style=flat-square&logo=amazonwebservices&logoColor=white" />
-       <img alt="docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-       <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-       <img alt="eks" src="https://img.shields.io/badge/-EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white" />
-       <img alt="jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-       <img alt="ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-       <img alt="argo" src="https://img.shields.io/badge/-Argo-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
-       <img alt="github-actions" src="https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+       <img alt="datadog" src="https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
+       <img alt="packer" src="https://img.shields.io/badge/-Packer-02A8EF?style=flat-square&logo=packer&logoColor=white" />
        <img alt="jfrog" src="https://img.shields.io/badge/-JFrog-40BE46?style=flat-square&logo=jfrog&logoColor=white" />
+       <img alt="sonarqube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
        <img alt="okta" src="https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta&logoColor=white" />
-       <img alt="helm" src="https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
        <img alt="chef" src="https://img.shields.io/badge/-Chef-F09820?style=flat-square&logo=chef&logoColor=white"/>
        <img alt="metabase" src="https://img.shields.io/badge/-Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white"/>
-       <img alt="datadog" src="https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
      </td>
    </tr>
    <tr>
