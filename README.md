@@ -2,7 +2,7 @@
 
 <li> :wave: &nbsp &nbsp I am Tyrone or usually hahafhaha on social media.</li>
 <li> :school: &nbsp &nbsp Currently a fourth-year Software Engineering student at the University of Waterloo</li>
-<li> :shipit: &nbsp &nbsp Also an Site Reliability Engineer at Electronic Arts</li>
+<li> :shipit: &nbsp &nbspAlso an Site Reliability Engineer at Electronic Arts</li>
 <!-- <li> :page_with_curl:	&nbsp &nbsp Find my latest blog posts at https://www.hahafhaha.com/#/projects/meepoer </li> -->
 <li>
  :llama:	&nbsp &nbsp Stuff I work with
@@ -17,7 +17,7 @@
        <img alt="pulsar" src="https://img.shields.io/badge/-Pulsar-188FFF?style=flat-square&logo=apachepulsar&logoColor=white"/>
        <img alt="redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
        <img alt="milvus" src="https://img.shields.io/badge/-Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white" />
-       <img alt="etcd" src="https://img.shields.io/badge/-etcd-419EDA?style=flat-square&logo=etcd&logoColor=white" />
+       <img alt="etcd" src="https://img.shields.io/badge/-Etcd-419EDA?style=flat-square&logo=etcd&logoColor=white" />
        <img alt="apache2" src="https://img.shields.io/badge/-Apache2-D22128?style=flat-square&logo=apache&logoColor=white"/>
        <img alt="caddy" src="https://img.shields.io/badge/-Caddy-004833?style=flat-square&logo=caddy&logoColor=white"/>
        <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
@@ -43,6 +43,7 @@
        <img alt="ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
        <img alt="argo" src="https://img.shields.io/badge/-Argo-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
        <img alt="github-actions" src="https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+       <img alt="jfrog" src="https://img.shields.io/badge/-JFrog-40BE46?style=flat-square&logo=jfrog&logoColor=white" />
        <img alt="okta" src="https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta&logoColor=white" />
        <img alt="helm" src="https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
        <img alt="chef" src="https://img.shields.io/badge/-Chef-F09820?style=flat-square&logo=chef&logoColor=white"/>
@@ -53,6 +54,7 @@
    <tr>
      <td align="center">Stuff</td>
      <td>
+      <img alt="dota2" src="https://img.shields.io/badge/-Dota2-BF2E1A?style=flat-square&logo=dota2&logoColor=white" />
       <img alt="FIRST" src="https://img.shields.io/badge/-FIRST-0066B3?style=flat-square&logo=first&logoColor=white" />
       <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
       <img alt="paddle" src="https://img.shields.io/badge/-PaddlePaddle-0062B0?style=flat-square&logo=paddlepaddle&logoColor=white"/>
