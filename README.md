@@ -99,7 +99,7 @@
 ## Live Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-420%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-421%20hrs%201%20min-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -119,7 +119,7 @@ Mac                      7 hrs 7 mins        ███████████�
 ```
 
 
- Last Updated on 16/12/2024 20:05:54 UTC
+ Last Updated on 17/12/2024 20:05:32 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
