@@ -1,9 +1,9 @@
 # Hahafhaha
 
 <li> :wave: &nbsp &nbsp I am Tyrone or usually hahafhaha on social media.</li>
-<li> :school: &nbsp &nbsp Currently a fourth-year Software Engineering student at the University of Waterloo</li>
-<li> :shipit: &nbsp &nbsp Also an Site Reliability Engineer at Electronic Arts</li>
-<!-- <li> :page_with_curl:	&nbsp &nbsp Find my latest blog posts at https://www.hahafhaha.com/#/projects/meepoer </li> -->
+<li> :school: &nbsp &nbsp Currently a fourth-year Software Engineering student at the University of Waterloo.</li>
+<li> :desktop_computer: &nbsp &nbsp Also an Site Reliability Engineer at Electronic Arts.</li>
+<li> :page_with_curl:	&nbsp &nbsp Find my latest blog posts <a href="https://plausible-tune-8e4.notion.site/Blogs-129da84986758046810aebebe2a3637a">here</a>.</li>
 <li>
  :llama:	&nbsp &nbsp Stuff I work with
  <br><br>
@@ -29,14 +29,15 @@
      </td>
    </tr>
    <tr>
-     <td align="center">DevOps/SRE</td>
+     <td align="center">Ops</td>
      <td>
-       <img alt="aws" src="https://img.shields.io/badge/-AWS-FF5733?style=flat-square&logo=amazonwebservices&logoColor=white" />
-       <img alt="terraform" src="https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
-       <img alt="docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
        <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
        <img alt="helm" src="https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
-       <img alt="rancher" src="https://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white" />
+       <img alt="istio" src="https://img.shields.io/badge/-Istio-466BB0?style=flat-square&logo=istio&logoColor=white" />
+       <img alt="docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+       <img alt="aws" src="https://img.shields.io/badge/-AWS-FF5733?style=flat-square&logo=amazonwebservices&logoColor=white" />
+       <img alt="terraform" src="https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+       <img alt="pulumi" src="https://img.shields.io/badge/-Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white" />
        <img alt="serverless" src="https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" />
        <img alt="jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
        <img alt="github-actions" src="https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
@@ -48,6 +49,7 @@
        <img alt="grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
        <img alt="prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
        <img alt="datadog" src="https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
+       <img alt="jaeger" src="https://img.shields.io/badge/-Jaeger-6495ED?style=flat-square&logo=jaeger&logoColor=white"/>
        <img alt="packer" src="https://img.shields.io/badge/-Packer-02A8EF?style=flat-square&logo=packer&logoColor=white" />
        <img alt="jfrog" src="https://img.shields.io/badge/-JFrog-40BE46?style=flat-square&logo=jfrog&logoColor=white" />
        <img alt="sonarqube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
