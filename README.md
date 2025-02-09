@@ -62,7 +62,6 @@
      <td align="center">Stuff</td>
      <td>
       <img alt="dota2" src="https://img.shields.io/badge/-Dota2-BF2E1A?style=flat-square&logo=dota2&logoColor=white" />
-      <img alt="leagueoflegends" src="https://img.shields.io/badge/-LeagueofLengeds-BF2E1A?style=flat-square&logo=dota2&logoColor=white"/>
       <img alt="FIRST" src="https://img.shields.io/badge/-FIRST-0066B3?style=flat-square&logo=first&logoColor=white" />
       <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
       <img alt="paddle" src="https://img.shields.io/badge/-PaddlePaddle-0062B0?style=flat-square&logo=paddlepaddle&logoColor=white"/>
