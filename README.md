@@ -18,8 +18,6 @@
        <img alt="redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
        <img alt="milvus" src="https://img.shields.io/badge/-Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white" />
        <img alt="etcd" src="https://img.shields.io/badge/-Etcd-419EDA?style=flat-square&logo=etcd&logoColor=white" />
-       <img alt="apache2" src="https://img.shields.io/badge/-Apache2-D22128?style=flat-square&logo=apache&logoColor=white"/>
-       <img alt="caddy" src="https://img.shields.io/badge/-Caddy-004833?style=flat-square&logo=caddy&logoColor=white"/>
        <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
        <img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
        <img alt="flask" src="https://img.shields.io/badge/-Flask-811127?style=flat-square&logo=flask&logoColor=white"/>
@@ -32,9 +30,13 @@
      <td align="center">Ops</td>
      <td>
        <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+       <img alt="rancher" src="https://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white" />
        <img alt="helm" src="https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
        <img alt="istio" src="https://img.shields.io/badge/-Istio-466BB0?style=flat-square&logo=istio&logoColor=white" />
+       <img alt="traefik" src="https://img.shields.io/badge/-Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" />
        <img alt="docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+       <img alt="apache2" src="https://img.shields.io/badge/-Apache2-D22128?style=flat-square&logo=apache&logoColor=white"/>
+       <img alt="caddy" src="https://img.shields.io/badge/-Caddy-004833?style=flat-square&logo=caddy&logoColor=white"/>
        <img alt="aws" src="https://img.shields.io/badge/-AWS-FF5733?style=flat-square&logo=amazonwebservices&logoColor=white" />
        <img alt="terraform" src="https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
        <img alt="pulumi" src="https://img.shields.io/badge/-Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white" />
@@ -63,13 +65,12 @@
      <td>
       <img alt="dota2" src="https://img.shields.io/badge/-Dota2-BF2E1A?style=flat-square&logo=dota2&logoColor=white" />
       <img alt="FIRST" src="https://img.shields.io/badge/-FIRST-0066B3?style=flat-square&logo=first&logoColor=white" />
-      <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-      <img alt="paddle" src="https://img.shields.io/badge/-PaddlePaddle-0062B0?style=flat-square&logo=paddlepaddle&logoColor=white"/>
       <img alt="iterm2" src="https://img.shields.io/badge/-iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white"/>
       <img alt="anaconda" src="https://img.shields.io/badge/-Anaconda-229C18?style=flat-square&logo=anaconda&logoColor=white"/>
       <img alt="tmux" src="https://img.shields.io/badge/-Tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white"/>
       <img alt="nvim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white"/>
       <img alt="vscode" src="https://img.shields.io/badge/-VSCode-E95420?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+      <img alt="k3s" src="https://img.shields.io/badge/-K3s-FFC61C?style=flat-square&logo=k3s&logoColor=white"/>
       <img alt="ffmpeg" src="https://img.shields.io/badge/-FFMPEG-4E1181?style=flat-square&logo=ffmpeg&logoColor=white"/>
       <img alt="Gstreamer" src="https://img.shields.io/badge/-GStreamer-FF3131?style=flat-square&logo=GStreamer&logoColor=white" />
       <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
@@ -80,19 +81,18 @@
       <img alt="ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
       <img alt="debian" src="https://img.shields.io/badge/-Debain-A81D33?style=flat-square&logo=debian&logoColor=white" />
       <img alt="mint" src="https://img.shields.io/badge/-Linuxmint-86BE43?style=flat-square&logo=linuxmint&logoColor=white" />
+      <img alt="rpi" src="https://img.shields.io/badge/-Raspberrypi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
       <img alt="Wakatime" src="https://img.shields.io/badge/-Wakatime-000000?style=flat-square&logo=wakatime&logoColor=white" />
-      <img alt="Razer" src="https://img.shields.io/badge/-Razer-03C75A?style=flat-square&logo=razer&logoColor=black" />
       <img alt="Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white"/>
       <img alt="Lastfm" src="https://img.shields.io/badge/-Lastfm-D51007?style=flat-square&logo=last.fm&logoColor=white" />
       <img alt="Chrome" src="https://img.shields.io/badge/-Google%20Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
       <img alt="Arc" src="https://img.shields.io/badge/-Arc-FCBFBD?style=flat-square&logo=arc&logoColor=black" />
       <img alt="Beats" src="https://img.shields.io/badge/-Beats-E01F3D?style=flat-square&logo=beatsbydre&logoColor=white" />
+      <img alt="SteelSeries" src="https://img.shields.io/badge/-Steelseries-FF5200?style=flat-square&logo=steelseries&logoColor=white" />
       <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-      <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-09D3AC?style=flat-square&logo=createreactapp&logoColor=white" />
       <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
-      <img alt="antd" src="https://img.shields.io/badge/-AntDesgin-0170FE?style=flat-square&logo=antdesign&logoColor=white"/>
       <img alt="mui" src="https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
-      <img alt="Nike" src="https://img.shields.io/badge/-Nike%20Only-111111?style=flat-square&logo=nike&logoColor=white" />
+      <img alt="Nike" src="https://img.shields.io/badge/-Nike-111111?style=flat-square&logo=nike&logoColor=white" />
      </td>
    </tr>
  </table>
