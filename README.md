@@ -11,6 +11,10 @@
    <tr>
      <td align="center">Dev</td>
      <td>
+       <img alt="c" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+       <img alt="cpp" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+       <img alt="python3" src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=python&logoColor=white"/>
+       <img alt="go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
        <img alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
        <img alt="gitlab" src="https://img.shields.io/badge/-Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
        <img alt="kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
