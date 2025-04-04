@@ -1,5 +1,3 @@
-# Hahafhaha
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=K2D&weight=600&size=30&letterSpacing=2px&duration=3000&pause=100&color=10622B&vCenter=true&width=600&height=30&lines=Greetings!+I+am+Tyrone;or+hahafhaha+if+you+prefer.;I+like+video+games+and+software+stuff.;Thanks+for+dropping+by!)](https://git.io/typing-svg)
 <li> :school: &nbsp &nbsp Currently a fourth-year Software Engineering student at the University of Waterloo.</li>
 <li> :desktop_computer: &nbsp &nbsp Also an Site Reliability Engineer at Electronic Arts.</li>
