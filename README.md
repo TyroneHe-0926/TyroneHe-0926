@@ -109,19 +109,17 @@
 
 ```text
 💬 Programming Languages: 
-Python                   8 mins              █████████████████████░░░░   82.53 % 
-HCL                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/12/2025 20:06:33 UTC
+ Last Updated on 30/12/2025 20:06:20 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
