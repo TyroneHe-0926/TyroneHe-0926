@@ -103,8 +103,23 @@
 ## Live Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-838%20hrs%2021%20mins-blue)
 
- Last Updated on 03/01/2026 20:06:21 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 04/01/2026 20:06:22 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
