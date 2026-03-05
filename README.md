@@ -109,21 +109,21 @@
 
 ```text
 💬 Programming Languages: 
-Bash                     2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   33.24 % 
-YAML                     1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Go                       39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-CSV                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Bash                     2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.30 % 
+YAML                     1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+Markdown                 1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Go                       43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Terraform                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  7 hrs 13 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      7 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/03/2026 20:11:42 UTC
+ Last Updated on 05/03/2026 20:14:34 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
