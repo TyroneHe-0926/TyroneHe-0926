@@ -109,21 +109,22 @@
 
 ```text
 💬 Programming Languages: 
-Terraform                2 hrs 15 mins       ███████████░░░░░░░░░░░░░░   43.32 % 
-YAML                     1 hr 49 mins        █████████░░░░░░░░░░░░░░░░   35.18 % 
-Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Go                       25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+YAML                     2 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   40.72 % 
+Terraform                1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+Markdown                 59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Go                       25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Rust                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 34 mins       ██████████████████████░░░   86.16 % 
+Linux                    53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
 ```
 
 
- Last Updated on 23/03/2026 20:15:42 UTC
+ Last Updated on 24/03/2026 20:15:20 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
