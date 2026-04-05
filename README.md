@@ -109,22 +109,18 @@
 
 ```text
 💬 Programming Languages: 
-Scala                    4 hrs 2 mins        █████████████████████░░░░   82.48 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Go                       0 secs              ███████████████░░░░░░░░░░   61.00 % 
+YAML                     0 secs              ██████████░░░░░░░░░░░░░░░   39.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 53 mins       █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 53 mins       █████████████████████████   99.99 % 
-Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/04/2026 20:09:19 UTC
+ Last Updated on 05/04/2026 20:09:52 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
