@@ -109,18 +109,21 @@
 
 ```text
 💬 Programming Languages: 
-Go                       0 secs              ███████████████░░░░░░░░░░   61.00 % 
-YAML                     0 secs              ██████████░░░░░░░░░░░░░░░   39.00 % 
+YAML                     30 mins             ████████████░░░░░░░░░░░░░   49.61 % 
+Python                   23 mins             █████████░░░░░░░░░░░░░░░░   37.80 % 
+JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+SSH Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/04/2026 20:16:04 UTC
+ Last Updated on 07/04/2026 20:15:54 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
