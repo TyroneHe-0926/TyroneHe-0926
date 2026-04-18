@@ -109,23 +109,23 @@
 
 ```text
 💬 Programming Languages: 
-Scala                    2 hrs 25 mins       ███████████░░░░░░░░░░░░░░   45.64 % 
-Terraform                2 hrs 17 mins       ███████████░░░░░░░░░░░░░░   43.27 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Smarty                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Scala                    2 hrs 25 mins       █████████████████░░░░░░░░   66.58 % 
+Terraform                49 mins             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+HCL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 53 mins       ██████████████░░░░░░░░░░░   54.36 % 
-Linux                    2 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.81 % 
-Windows                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Linux                    2 hrs 6 mins        ███████████████░░░░░░░░░░   58.08 % 
+Mac                      1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   33.42 % 
+Windows                  18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
 ```
 
 
- Last Updated on 17/04/2026 20:17:34 UTC
+ Last Updated on 18/04/2026 20:12:31 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
