@@ -103,26 +103,8 @@
 ## Live Stats
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-YAML                     1 hr 22 mins        ████████████████████░░░░░   79.31 % 
-Other                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Terraform                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-
-🔥 Editors: 
-VS Code                  1 hr 29 mins        ██████████████████████░░░   86.33 % 
-Claude Code              14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-
-💻 Operating System: 
-Mac                      1 hr 43 mins        █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 22/05/2026 20:35:56 UTC
+ Last Updated on 23/05/2026 20:20:18 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
