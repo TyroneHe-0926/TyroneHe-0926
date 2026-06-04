@@ -103,28 +103,28 @@
 ## Live Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C041%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C042%20hrs%2018%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Terraform                1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   31.95 % 
-Markdown                 1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-YAML                     1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Terraform                1 hr 55 mins        ██████████░░░░░░░░░░░░░░░   41.79 % 
+YAML                     1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   30.98 % 
+Other                    30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 21 mins       █████████████████████░░░░   82.46 % 
-Claude Code              55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+VS Code                  4 hrs 3 mins        ██████████████████████░░░   88.24 % 
+Claude Code              32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 
 💻 Operating System: 
-Mac                      5 hrs 16 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/06/2026 21:08:30 UTC
+ Last Updated on 04/06/2026 20:46:02 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
