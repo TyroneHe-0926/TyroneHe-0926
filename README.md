@@ -103,6 +103,18 @@
 ## Live Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C089%20hrs%2030%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                570 commits         ██████████░░░░░░░░░░░░░░░   38.08 % 
+🌆 Daytime                576 commits         ██████████░░░░░░░░░░░░░░░   38.48 % 
+🌃 Evening                145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+🌙 Night                  206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -149,7 +161,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/07/2026 21:09:02 UTC
+ Last Updated on 29/07/2026 03:42:36 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
