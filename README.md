@@ -108,10 +108,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                570 commits         ██████████░░░░░░░░░░░░░░░   38.08 % 
-🌆 Daytime                576 commits         ██████████░░░░░░░░░░░░░░░   38.48 % 
-🌃 Evening                145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-🌙 Night                  206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+🌞 Morning                571 commits         ██████████░░░░░░░░░░░░░░░   38.12 % 
+🌆 Daytime                576 commits         ██████████░░░░░░░░░░░░░░░   38.45 % 
+🌃 Evening                145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+🌙 Night                  206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
 ```
 
 
@@ -134,34 +134,8 @@ WSL                      8 hrs 40 mins       ███████████�
 Mac                      6 hrs 48 mins       ███████████░░░░░░░░░░░░░░   43.94 % 
 ```
 
-🤖 **AI Coding This Week** 
 
-```text
-⏱ AI Coding Time: 13 hrs 6 mins (84.75%)
-
-✍️ 10,072 lines written by AI, 430 lines written by hand (95.91% AI-written)
-
-🔤 129,449,243 Input Tokens, 758,275 Output Tokens
-
-💵 $568.71 Estimated AI Cost This Week
-
-🧠 19 AI Sessions, 157 AI Prompts
-
-Opus                     5,202 lines         ████████████░░░░░░░░░░░░░   48.47 % 
-Fable                    3,649 lines         ████████░░░░░░░░░░░░░░░░░   34.00 % 
-Sonnet                   1,028 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Haiku                    853 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 95.91% of written lines came from AI
-📚 Verbose Prompter — average 7,127 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 5.77% of changed lines were hand-edited
-```
-
-
- Last Updated on 29/07/2026 03:42:36 UTC
+ Last Updated on 29/07/2026 03:46:15 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
