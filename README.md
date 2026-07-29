@@ -119,23 +119,23 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   37.00 % 
-Terraform                2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-JavaScript               2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Python                   1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Bash                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Markdown                 4 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.81 % 
+JavaScript               2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+Terraform                2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Python                   1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 32 mins       ███████████████░░░░░░░░░░   61.60 % 
-VS Code                  5 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   38.40 % 
+Claude Code              7 hrs 56 mins       ████████████████░░░░░░░░░   64.65 % 
+VS Code                  4 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.35 % 
 
 💻 Operating System: 
-WSL                      8 hrs 40 mins       ██████████████░░░░░░░░░░░   56.06 % 
-Mac                      6 hrs 48 mins       ███████████░░░░░░░░░░░░░░   43.94 % 
+Mac                      6 hrs 28 mins       █████████████░░░░░░░░░░░░   52.69 % 
+WSL                      5 hrs 48 mins       ████████████░░░░░░░░░░░░░   47.31 % 
 ```
 
 
- Last Updated on 29/07/2026 03:46:15 UTC
+ Last Updated on 29/07/2026 20:58:16 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
