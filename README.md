@@ -112,10 +112,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-🌆 Daytime                247 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-🌃 Evening                582 commits         █████████░░░░░░░░░░░░░░░░   37.21 % 
-🌙 Night                  592 commits         █████████░░░░░░░░░░░░░░░░   37.85 % 
+🌞 Morning                143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+🌆 Daytime                247 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+🌃 Evening                584 commits         █████████░░░░░░░░░░░░░░░░   37.27 % 
+🌙 Night                  593 commits         █████████░░░░░░░░░░░░░░░░   37.84 % 
 ```
 
 
@@ -123,22 +123,22 @@
 
 ```text
 💬 Programming Languages: 
-Terraform                1 hr 47 mins        ███████████████████░░░░░░   74.06 % 
-Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-YAML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Terraform Template       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Terraform                2 hrs 26 mins       █████████████░░░░░░░░░░░░   52.89 % 
+SSH Config               1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+HCL                      30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🔥 Editors: 
-Claude Code              1 hr 41 mins        █████████████████░░░░░░░░   69.57 % 
-VS Code                  44 mins             ████████░░░░░░░░░░░░░░░░░   30.43 % 
+VS Code                  2 hrs 56 mins       ████████████████░░░░░░░░░   63.90 % 
+Claude Code              1 hr 39 mins        █████████░░░░░░░░░░░░░░░░   36.10 % 
 
 💻 Operating System: 
-Mac                      2 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/10/2026 22:59:41 UTC
+ Last Updated on 21/10/2026 23:04:06 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
